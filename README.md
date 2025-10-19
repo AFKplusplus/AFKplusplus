@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @AFKpluspluscode
-- 👀 I’m interested in coding and making games
-- 🌱 I’m currently learning about making 2d & 3d games
-- 💞️ I’m looking to collaborate on no one yet
-- 📫 How to reach me none yet
+im AFKplusplus
+i like doing projects, maybe contributing sometimes
+if you need me, im probably online on minecraft hypixel or open redstone engineers
 
 <!---
 AFKpluspluscode/AFKpluspluscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
